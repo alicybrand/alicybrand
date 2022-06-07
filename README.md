@@ -1,0 +1,3 @@
+- 👋 oi, meu nome é Alicy
+- 👀 sou estudante de pensamento computacional e estou aprendendo a programar o java script
+- 🌱 estou interresada em aprender mais sobre programação 
